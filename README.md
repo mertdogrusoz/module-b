@@ -1,2 +1,2 @@
 # module-b
-module-b update v2
+module-b update v4
